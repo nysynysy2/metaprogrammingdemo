@@ -4,7 +4,7 @@
 #include <array>
 #include <vector>
 #include <algorithm>
-#include "template_arithmetic.h"
+#include "template_arithmetics.h"
 
 namespace ranges = std::ranges;
 namespace views = std::views;
